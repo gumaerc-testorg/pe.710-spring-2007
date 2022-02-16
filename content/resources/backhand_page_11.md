@@ -1,13 +1,17 @@
 ---
 content_type: resource
 description: 'Step 2a, Two-Handed Grip: The step and racket preparation.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/16a3d581284e6334d5892fc40c5ba1f8_backhand_Page_11.jpg
+file: /media/courses/pe-710-tennis-spring-2007/16a3d581284e6334d5892fc40c5ba1f8_backhand_Page_11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 2a, Two-Handed Grip: The step and racket preparation.'
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The right foot steps forward and across to the left, with the racket
     still behind the body, held in both hands.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Backhand
+parent_type: CourseSection
 resourcetype: Image
 title: backhand_Page_11.jpg
 uid: 16a3d581-284e-6334-d589-2fc40c5ba1f8

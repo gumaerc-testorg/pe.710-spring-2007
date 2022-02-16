@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 title: Backhand
 uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 ---
 
-{{< image-gallery id="bab96a01-fe45-4885-e619-9988ce1bc92e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/" >}}
+{{< image-gallery id="bab96a01-fe45-4885-e619-9988ce1bc92e_nanogallery2" baseUrl="/courses/pe-710-tennis-spring-2007/" >}}
 {{< image-gallery-item href="ef761150be99142b4f93fd584a4b1994_backhand_Page_01.jpg" data-ngdesc="MIT OCW PE.710 Tennis Lecture Notes Chapter 2: Backhand" text="MIT OCW PE.710 Tennis Lecture Notes Chapter 2: Backhand" >}}
 {{< image-gallery-item href="348b87b48e3b1f016fa7466313c127bb_backhand_Page_02.jpg" data-ngdesc="The backhand has two choices for grip. The first is one-handed, and shown above. It provides greater reach, but is sometimes harder to control." text="The backhand has two choices for grip. The first is one-handed, and shown above. It provides greater reach, but is sometimes harder to control." >}}
 {{< image-gallery-item href="a9b718e3d68110b2df9bb1a4fff3d762_backhand_Page_03.jpg" data-ngdesc="The second option, the two-handed grip, is shown here. It has less reach, but offers more stability and control." text="The second option, the two-handed grip, is shown here. It has less reach, but offers more stability and control." >}}

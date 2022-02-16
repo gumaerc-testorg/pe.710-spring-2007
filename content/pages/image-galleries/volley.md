@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 title: Volley
 uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 ---
 
-{{< image-gallery id="e7d769ea-09ff-7abd-48e7-fad702f80a4d_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/" >}}
+{{< image-gallery id="e7d769ea-09ff-7abd-48e7-fad702f80a4d_nanogallery2" baseUrl="/courses/pe-710-tennis-spring-2007/" >}}
 {{< image-gallery-item href="3430c7cfc039d92e710757c6ffba7020_volley_Page_01.jpg" data-ngdesc="MIT OCW PE.710 Tennis Lecture Notes Chapter 4: Volley" text="MIT OCW PE.710 Tennis Lecture Notes Chapter 4: Volley" >}}
 {{< image-gallery-item href="57c02b126ba6cd674b50f3c85b73e512_volley_Page_02.jpg" data-ngdesc="The volley grip, very similar to the service grip. Note that the volley grip is the same for forehand and backhand volleys." text="The volley grip, very similar to the service grip. Note that the volley grip is the same for forehand and backhand volleys." >}}
 {{< image-gallery-item href="2bcff5babc05867bf35fd70f8b4db48b_volley_Page_03.jpg" data-ngdesc="The volley grip, second view." text="The volley grip, second view." >}}

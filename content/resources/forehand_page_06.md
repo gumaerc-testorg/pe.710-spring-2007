@@ -3,7 +3,7 @@ content_type: resource
 description: 'Step 2: A step is taken with the opposite (in this case left) foot.
   The racket is swung forward and makes contact with the ball in front of you, parallel
   to the net.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/9ae7b0ab8ac8ec941288b9b5cbb1097a_forehand_Page_06.jpg
+file: /media/courses/pe-710-tennis-spring-2007/9ae7b0ab8ac8ec941288b9b5cbb1097a_forehand_Page_06.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 2: A step is taken with the opposite (in this case left) foot. The
@@ -12,6 +12,10 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The player steps forward on the left foot, bringing the racket around
     to the side.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Image Galleries
+parent_type: CourseSection
 resourcetype: Image
 title: forehand_Page_06.jpg
 uid: 9ae7b0ab-8ac8-ec94-1288-b9b5cbb1097a

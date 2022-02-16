@@ -3,7 +3,7 @@ content_type: resource
 description: 'Step 1: The shoulder turn and preparation of the racket. Note that the
   racket is brought back, much like in the forehand. In this case, both hands remain
   on the racket.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/007170f1b9d2fab0a45f03bd47e47568_backhand_Page_05.jpg
+file: /media/courses/pe-710-tennis-spring-2007/007170f1b9d2fab0a45f03bd47e47568_backhand_Page_05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 1: The shoulder turn and preparation of the racket. Note that the
@@ -13,6 +13,10 @@ image_metadata:
   image-alt: The player puts weight on the left foot, swinging the racket across the
     body to the left, so it ends up behind the body, pointing upwards, with the left
     hand holding it at the neck.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Backhand
+parent_type: CourseSection
 resourcetype: Image
 title: backhand_Page_05.jpg
 uid: 007170f1-b9d2-fab0-a45f-03bd47e47568

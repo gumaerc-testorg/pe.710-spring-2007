@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 title: Serve
 uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 ---
 
-{{< image-gallery id="bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/" >}}
+{{< image-gallery id="bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7_nanogallery2" baseUrl="/courses/pe-710-tennis-spring-2007/" >}}
 {{< image-gallery-item href="e51e5f5f9db8760c6a0aea91365cca5a_serve_Page_01.jpg" data-ngdesc="MIT OCW PE.710 Tennis Lecture Notes Chapter 3: Serve" text="MIT OCW PE.710 Tennis Lecture Notes Chapter 3: Serve" >}}
 {{< image-gallery-item href="65891c67973ffc421be408504e2719ba_serve_Page_02.jpg" data-ngdesc="The serve grip, which is rotated roughly 90 degrees from the forehand grip." text="The serve grip, which is rotated roughly 90 degrees from the forehand grip." >}}
 {{< image-gallery-item href="4096cf12c2c3812fea7bb143ec1ecc73_serve_Page_03.jpg" data-ngdesc="This lecture will show two service motions: basic and advanced. Step 1, Basic Serve: The first position of the basic serve. Note that the racket is behind the back, and the ball is held in front ready for the toss." text="This lecture will show two service motions: basic and advanced. Step 1, Basic Serve: The first position of the basic serve. Note that the racket is behind the back, and the ball is held in front ready for the toss." >}}

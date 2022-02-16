@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Galleries
 uid: de168d39-f840-f977-8435-fb3ef4fd9530
 ---
@@ -8,7 +10,7 @@ These galleries cover the four basic shots in tennis. They are pictorial essays 
 
 Forehand
 --------
-{{< image-gallery id="de168d39-f840-f977-8435-fb3ef4fd9530_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/" >}}
+{{< image-gallery id="de168d39-f840-f977-8435-fb3ef4fd9530_nanogallery2" baseUrl="/courses/pe-710-tennis-spring-2007/" >}}
 {{< image-gallery-item href="df746e4d009c30e52b4f62d8b4b3a03b_forehand_Page_01.jpg" data-ngdesc="MIT OCW PE.710 Tennis Lecture Notes Chapter 1: Forehand" text="MIT OCW PE.710 Tennis Lecture Notes Chapter 1: Forehand" >}}
 {{< image-gallery-item href="0afad349ed70126d8ce98cc88125d21f_forehand_Page_02.jpg" data-ngdesc="The forehand grip - note that the racket is held flat, like a frying pan. The palm of your hand holds the wider, flat part of the grip." text="The forehand grip - note that the racket is held flat, like a frying pan. The palm of your hand holds the wider, flat part of the grip." >}}
 {{< image-gallery-item href="8f15e8ab7e41fec49b7f22f39f1b3bc6_forehand_Page_03.jpg" data-ngdesc="The forehand grip from another angle. Note the angle of the fingers on the racket: the grip is firm, but not overly tight." text="The forehand grip from another angle. Note the angle of the fingers on the racket: the grip is firm, but not overly tight." >}}

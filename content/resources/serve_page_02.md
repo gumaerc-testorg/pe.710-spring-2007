@@ -2,7 +2,7 @@
 content_type: resource
 description: The serve grip, which is rotated roughly 90 degrees from the forehand
   grip.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/65891c67973ffc421be408504e2719ba_serve_Page_02.jpg
+file: /media/courses/pe-710-tennis-spring-2007/65891c67973ffc421be408504e2719ba_serve_Page_02.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The serve grip, which is rotated roughly 90 degrees from the forehand grip.
@@ -10,6 +10,10 @@ image_metadata:
   image-alt: The right hand holds the racket near the end of the handle, with the
     palm facing the ground, the strings facing right and left, and the head pointing
     towards the net.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Serve
+parent_type: CourseSection
 resourcetype: Image
 title: serve_Page_02.jpg
 uid: 65891c67-973f-fc42-1be4-08504e2719ba

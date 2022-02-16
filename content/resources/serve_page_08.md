@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 2a, Advanced Serve: The toss begins. In the first movement of the
   toss, the racket comes back while the ball toss begins.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/1159ab2bd0fda8adf88805de5ad25161_serve_Page_08.jpg
+file: /media/courses/pe-710-tennis-spring-2007/1159ab2bd0fda8adf88805de5ad25161_serve_Page_08.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 2a, Advanced Serve: The toss begins. In the first movement of the
@@ -10,6 +10,10 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The left hand brings the ball down while the right hand swings the racket
     back.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Serve
+parent_type: CourseSection
 resourcetype: Image
 title: serve_Page_08.jpg
 uid: 1159ab2b-d0fd-a8ad-f888-05de5ad25161

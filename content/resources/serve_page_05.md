@@ -3,7 +3,7 @@ content_type: resource
 description: 'Step 3a, Basic Serve: The swing. The racket is brought up and forward
   from behind the back, striking the ball and aiming it toward the appropriate service
   box.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-710-tennis-spring-2007/9cc6f4274d0981c9915eaf2a2cf42b99_serve_Page_05.jpg
+file: /media/courses/pe-710-tennis-spring-2007/9cc6f4274d0981c9915eaf2a2cf42b99_serve_Page_05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 3a, Basic Serve: The swing. The racket is brought up and forward
@@ -12,6 +12,10 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: Finishing the step onto the left foot, the right hand swings the racket
     up and over to hit the ball forward as it falls.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Serve
+parent_type: CourseSection
 resourcetype: Image
 title: serve_Page_05.jpg
 uid: 9cc6f427-4d09-81c9-915e-af2a2cf42b99
