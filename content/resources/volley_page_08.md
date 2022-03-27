@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
+parent_uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 resourcetype: Image
 title: volley_Page_08.jpg
 uid: 907bf3f6-e1bc-5d5c-a401-2b24c2133366

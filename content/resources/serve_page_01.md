@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Serve
 parent_type: CourseSection
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_01.jpg
 uid: e51e5f5f-9db8-760c-6a0a-ea91365cca5a

@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_12.jpg
 uid: 1e168d0f-daa6-6ee6-fdbe-aa720388e62d

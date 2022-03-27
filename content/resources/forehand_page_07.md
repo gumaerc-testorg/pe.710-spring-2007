@@ -16,6 +16,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_07.jpg
 uid: 9890be9a-f764-895e-4095-b15893f7672c
