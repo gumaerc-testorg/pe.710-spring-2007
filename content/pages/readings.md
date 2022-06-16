@@ -1,17 +1,18 @@
 ---
 content_type: page
-learning_resource_types:
-- Readings
-ocw_type: CourseSection
+description: Readings section contains the list of required and recommened readings
+  for the course.
+draft: false
 title: Readings
 uid: 1cf748aa-006e-7ce2-a7e1-4a3969a00cc3
 ---
-
 The main text for the course, written by the instructor, is:
 
 Matsuzaki, Carol. _Tennis Fundamentals_. Champaign, IL: Human Kinetics, 2004. ISBN: 9780736051514.
 
-Other Readings Include:
+ 
+
+Other readings Include:
 
 Groppel, Jack. _High Tech Tennis_. Champaign, IL: Human Kinetics, 1992. ISBN: 9780880114585.
 

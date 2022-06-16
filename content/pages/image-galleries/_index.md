@@ -1,12 +1,11 @@
 ---
 content_type: page
-learning_resource_types: []
-ocw_type: CourseSection
+description: ''
+draft: false
 title: Image Galleries
 uid: de168d39-f840-f977-8435-fb3ef4fd9530
 ---
-
-These galleries cover the four basic shots in tennis. They are pictorial essays on each shot, showing the progression and steps for each. Streaming video of each action is available on the [Video]({{< baseurl >}}/pages/video) page.
+These galleries cover the four basic shots in tennis. They are pictorial essays on each shot, showing the progression and steps for each. Streaming video of each action is available on the {{% resource_link 4655d2c6-8334-e52b-0b1a-65bfe27c6a21 "Video" %}} page.
 
 Forehand
 --------
