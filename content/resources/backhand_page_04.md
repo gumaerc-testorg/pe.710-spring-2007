@@ -2,7 +2,7 @@
 content_type: resource
 description: The ready position. Note that both hands are on the racket, the knees
   are slightly bent, and attention is focused on the opposite court.
-file: /media/courses/pe-710-tennis-spring-2007/8ece2b62e5b472e9bfa11f9c598e4236_backhand_Page_04.jpg
+file: /courses/pe-710-tennis-spring-2007/8ece2b62e5b472e9bfa11f9c598e4236_backhand_Page_04.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The ready position. Note that both hands are on the racket, the knees are
@@ -20,3 +20,5 @@ resourcetype: Image
 title: backhand_Page_04.jpg
 uid: 8ece2b62-e5b4-72e9-bfa1-1f9c598e4236
 ---
+The ready position. Note that both hands are on the racket, the knees are slightly bent, and attention is focused on the opposite court.
+

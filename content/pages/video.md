@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section contains video demonstrations of different tennis shots
+  and techniques.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video
 uid: 4655d2c6-8334-e52b-0b1a-65bfe27c6a21
 ---
 
-Photo essays on the forehand, backhand, serve, and volley are located under [Image Galleries]({{< baseurl >}}/pages/image-galleries).
+Photo essays on the forehand, backhand, serve, and volley are located under {{% resource_link de168d39-f840-f977-8435-fb3ef4fd9530 "Image Galleries" %}}.
 
 Forehand
 --------

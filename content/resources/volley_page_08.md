@@ -2,7 +2,7 @@
 content_type: resource
 description: The ready position, this time for the backhand volley (exactly the same
   as for a forehand volley).
-file: /media/courses/pe-710-tennis-spring-2007/907bf3f6e1bc5d5ca4012b24c2133366_volley_Page_08.jpg
+file: /courses/pe-710-tennis-spring-2007/907bf3f6e1bc5d5ca4012b24c2133366_volley_Page_08.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The ready position, this time for the backhand volley (exactly the same
@@ -20,3 +20,5 @@ resourcetype: Image
 title: volley_Page_08.jpg
 uid: 907bf3f6-e1bc-5d5c-a401-2b24c2133366
 ---
+The ready position, this time for the backhand volley (exactly the same as for a forehand volley).
+

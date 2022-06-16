@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Step 3, from another angle.
-file: /media/courses/pe-710-tennis-spring-2007/5e1b9f97d8732b99cba2f6acf0b9dab7_forehand_Page_14.jpg
+file: /courses/pe-710-tennis-spring-2007/5e1b9f97d8732b99cba2f6acf0b9dab7_forehand_Page_14.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Step 3, from another angle.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: forehand_Page_14.jpg
 uid: 5e1b9f97-d873-2b99-cba2-f6acf0b9dab7
 ---
+Step 3, from another angle.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Step 2a, Two-Handed Grip: The step and racket preparation.'
-file: /media/courses/pe-710-tennis-spring-2007/16a3d581284e6334d5892fc40c5ba1f8_backhand_Page_11.jpg
+file: /courses/pe-710-tennis-spring-2007/16a3d581284e6334d5892fc40c5ba1f8_backhand_Page_11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 2a, Two-Handed Grip: The step and racket preparation.'
@@ -17,3 +17,5 @@ resourcetype: Image
 title: backhand_Page_11.jpg
 uid: 16a3d581-284e-6334-d589-2fc40c5ba1f8
 ---
+Step 2a, Two-Handed Grip: The step and racket preparation.
+

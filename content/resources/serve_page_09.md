@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 2b, Advanced Serve: The toss continues. Much like the basic serve,
   the racket moves behind the body as part of the toss motion.'
-file: /media/courses/pe-710-tennis-spring-2007/099730e69543279c3c61af4f7307f256_serve_Page_09.jpg
+file: /courses/pe-710-tennis-spring-2007/099730e69543279c3c61af4f7307f256_serve_Page_09.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 2b, Advanced Serve: The toss continues. Much like the basic serve,
@@ -20,3 +20,5 @@ resourcetype: Image
 title: serve_Page_09.jpg
 uid: 099730e6-9543-279c-3c61-af4f7307f256
 ---
+Step 2b, Advanced Serve: The toss continues. Much like the basic serve, the racket moves behind the body as part of the toss motion.
+

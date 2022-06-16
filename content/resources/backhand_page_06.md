@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 2a: A step is taken, and the racket starts to come forward. Note
   that the player is balanced and moving toward the shot.'
-file: /media/courses/pe-710-tennis-spring-2007/9e6050ab1d567ccff36590668dc46047_backhand_Page_06.jpg
+file: /courses/pe-710-tennis-spring-2007/9e6050ab1d567ccff36590668dc46047_backhand_Page_06.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 2a: A step is taken, and the racket starts to come forward. Note
@@ -19,3 +19,5 @@ resourcetype: Image
 title: backhand_Page_06.jpg
 uid: 9e6050ab-1d56-7ccf-f365-90668dc46047
 ---
+Step 2a: A step is taken, and the racket starts to come forward. Note that the player is balanced and moving toward the shot.
+

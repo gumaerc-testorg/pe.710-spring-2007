@@ -2,7 +2,7 @@
 content_type: resource
 description: "Step 1, Advanced Serve:\r\nThe first position of the advanced serve.\r\
   \nThe racket is held in front, with the ball."
-file: /media/courses/pe-710-tennis-spring-2007/c38502aa770aa1594142bcdf27ef8d0a_serve_Page_07.jpg
+file: /courses/pe-710-tennis-spring-2007/c38502aa770aa1594142bcdf27ef8d0a_serve_Page_07.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 1, Advanced Serve: The first position of the advanced serve. The
@@ -19,3 +19,7 @@ resourcetype: Image
 title: serve_Page_07.jpg
 uid: c38502aa-770a-a159-4142-bcdf27ef8d0a
 ---
+Step 1, Advanced Serve:
+The first position of the advanced serve.
+The racket is held in front, with the ball.
+

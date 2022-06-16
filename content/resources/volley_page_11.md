@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 3, Backhand Volley: The follow-through. Very similar to the forehand
   volley, and very minimal.'
-file: /media/courses/pe-710-tennis-spring-2007/8df6173911a94243274cdb97e04876ad_volley_Page_11.jpg
+file: /courses/pe-710-tennis-spring-2007/8df6173911a94243274cdb97e04876ad_volley_Page_11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 3, Backhand Volley: The follow-through. Very similar to the forehand
@@ -19,3 +19,5 @@ resourcetype: Image
 title: volley_Page_11.jpg
 uid: 8df61739-11a9-4243-274c-db97e04876ad
 ---
+Step 3, Backhand Volley: The follow-through. Very similar to the forehand volley, and very minimal.
+

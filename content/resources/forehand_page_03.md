@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The forehand grip from another angle. Note the angle of the fingers
   on the racket: the grip is firm, but not overly tight.'
-file: /media/courses/pe-710-tennis-spring-2007/8f15e8ab7e41fec49b7f22f39f1b3bc6_forehand_Page_03.jpg
+file: /courses/pe-710-tennis-spring-2007/8f15e8ab7e41fec49b7f22f39f1b3bc6_forehand_Page_03.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'The forehand grip from another angle. Note the angle of the fingers on
@@ -19,3 +19,5 @@ resourcetype: Image
 title: forehand_Page_03.jpg
 uid: 8f15e8ab-7e41-fec4-9b7f-22f39f1b3bc6
 ---
+The forehand grip from another angle. Note the angle of the fingers on the racket: the grip is firm, but not overly tight.
+

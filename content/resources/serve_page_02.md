@@ -2,7 +2,7 @@
 content_type: resource
 description: The serve grip, which is rotated roughly 90 degrees from the forehand
   grip.
-file: /media/courses/pe-710-tennis-spring-2007/65891c67973ffc421be408504e2719ba_serve_Page_02.jpg
+file: /courses/pe-710-tennis-spring-2007/65891c67973ffc421be408504e2719ba_serve_Page_02.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The serve grip, which is rotated roughly 90 degrees from the forehand grip.
@@ -19,3 +19,5 @@ resourcetype: Image
 title: serve_Page_02.jpg
 uid: 65891c67-973f-fc42-1be4-08504e2719ba
 ---
+The serve grip, which is rotated roughly 90 degrees from the forehand grip.
+

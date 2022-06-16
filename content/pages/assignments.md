@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignments section contains exercises on four basic shots of tennis.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

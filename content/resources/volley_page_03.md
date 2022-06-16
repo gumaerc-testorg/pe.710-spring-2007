@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The volley grip, second view.
-file: /media/courses/pe-710-tennis-spring-2007/2bcff5babc05867bf35fd70f8b4db48b_volley_Page_03.jpg
+file: /courses/pe-710-tennis-spring-2007/2bcff5babc05867bf35fd70f8b4db48b_volley_Page_03.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The volley grip, second view.
@@ -18,3 +18,5 @@ resourcetype: Image
 title: volley_Page_03.jpg
 uid: 2bcff5ba-bc05-867b-f35f-d70f8b4db48b
 ---
+The volley grip, second view.
+
