@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A tennis player stands at the baseline holding the racket in front of
     him with both hands.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: backhand_Page_01.jpg
 uid: ef761150-be99-142b-4f93-fd584a4b1994
 ---
 MIT OCW PE.710 Tennis Lecture Notes Chapter 2: Backhand
-

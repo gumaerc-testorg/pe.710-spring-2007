@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The left hand brings the ball down while the right hand swings the racket
     back.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Serve
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: serve_Page_08.jpg
 uid: 1159ab2b-d0fd-a8ad-f888-05de5ad25161
 ---
 Step 2a, Advanced Serve: The toss begins. In the first movement of the toss, the racket comes back while the ball toss begins.
-

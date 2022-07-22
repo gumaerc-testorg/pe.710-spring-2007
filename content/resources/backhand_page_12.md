@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Both hands swing the racket around to hit the ball, straightening both
     elbows.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: backhand_Page_12.jpg
 uid: 1e168d0f-daa6-6ee6-fdbe-aa720388e62d
 ---
 Step 2b, Two-Handed Grip: Making contact with the ball. Generally, the racket head will be closer to the body on a two-handed backhand.
-

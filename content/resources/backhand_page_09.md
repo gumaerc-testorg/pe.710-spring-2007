@@ -9,6 +9,7 @@ image_metadata:
   image-alt: The player holds the racket in both hands, with the head aligned straight
     up and down, tilted forward toward the net, with the left hand above the right.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: backhand_Page_09.jpg
 uid: 28d71f38-238e-633e-a021-94fbb771b551
 ---
 The ready position with the two handed grip.
-

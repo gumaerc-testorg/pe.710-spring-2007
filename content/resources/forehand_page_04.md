@@ -12,6 +12,7 @@ image_metadata:
     straight up and down, tilted forward toward the net, and the left hand lightly
     steadying it at the neck.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: forehand_Page_04.jpg
 uid: 49afc896-9eb1-b57f-6242-ca8732d5abef
 ---
 The ready position. Note that both hands are on the racket, the knees are slightly bent, and attention is focused on the opposite court.
-

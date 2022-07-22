@@ -12,6 +12,7 @@ image_metadata:
     with the head aligned straight up and down, tilted forward toward the net, and
     the left hand lightly steadying it at the neck.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: volley_Page_08.jpg
 uid: 907bf3f6-e1bc-5d5c-a401-2b24c2133366
 ---
 The ready position, this time for the backhand volley (exactly the same as for a forehand volley).
-

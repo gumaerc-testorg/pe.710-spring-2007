@@ -11,6 +11,7 @@ image_metadata:
   image-alt: After the stroke, the racket is held high over the left shoulder, with
     weight on the right foot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: forehand_Page_09.jpg
 uid: 03d1d140-4be9-cbf3-447b-dc17c6415e8b
 ---
 Step 3, Open Stance: Note that the follow-through here is completed across the body, with the racket once again ending up over the opposite shoulder.
-

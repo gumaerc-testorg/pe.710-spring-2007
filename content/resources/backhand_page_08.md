@@ -13,6 +13,7 @@ image_metadata:
   image-alt: At the end of the stroke, the racket is held outstretched at shoulder
     level, pointing directly upwards, in the right hand.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: backhand_Page_08.jpg
 uid: b23bb09b-231a-fa5e-8ec4-0d212061da19
 ---
 Step 3: The follow-through, with the racket ending up high and out in front. A smooth follow through is critical to effective groundstrokes - bunting the ball will lead to soft, high balls that are easy for opponents.
-

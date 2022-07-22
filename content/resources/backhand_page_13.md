@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The left hand stays on the racket all the way through the stroke, pulling
     the racket back over the right shoulder.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: backhand_Page_13.jpg
 uid: 9cfc4027-a2d1-7dc2-a359-56710bccf485
 ---
 Step 3, Two-Handed Grip: The follow-through. Note that the racket here ends much like the forehand, over the opposite shoulder.
-

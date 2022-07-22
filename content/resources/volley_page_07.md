@@ -11,6 +11,7 @@ image_metadata:
   image-alt: At the end of the stroke, the racket is held perpendicular to the arm,
     not quite in front of the body, with all weight on the left foot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: volley_Page_07.jpg
 uid: e9596683-60e1-b737-0cde-400ec1fc1015
 ---
 Step 3, Forehand Volley: The follow-through. Note again that the motion is much shorter and more minimal than a full swing.
-

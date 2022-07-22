@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The left hand comes up again to steady the racket at the end of the stroke.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: forehand_Page_14.jpg
 uid: 5e1b9f97-d873-2b99-cba2-f6acf0b9dab7
 ---
 Step 3, from another angle.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The right foot steps forward and across to the left, with the racket
     still behind the body, bringing the player toward the ball.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: backhand_Page_06.jpg
 uid: 9e6050ab-1d56-7ccf-f365-90668dc46047
 ---
 Step 2a: A step is taken, and the racket starts to come forward. Note that the player is balanced and moving toward the shot.
-

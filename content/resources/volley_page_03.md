@@ -10,6 +10,7 @@ image_metadata:
     palm facing down, strings facing right and left, and head pointing towards the
     net.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: volley_Page_03.jpg
 uid: 2bcff5ba-bc05-867b-f35f-d70f8b4db48b
 ---
 The volley grip, second view.
-

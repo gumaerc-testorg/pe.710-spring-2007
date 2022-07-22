@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Here, the left hand grips the racket above the right hand, with the palm
     facing the net.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: backhand_Page_03.jpg
 uid: a9b718e3-d681-10b2-df9b-b1a4fff3d762
 ---
 The second option, the two-handed grip, is shown here. It has less reach, but offers more stability and control.
-

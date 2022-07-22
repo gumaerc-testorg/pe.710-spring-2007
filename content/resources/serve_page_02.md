@@ -11,6 +11,7 @@ image_metadata:
     palm facing the ground, the strings facing right and left, and the head pointing
     towards the net.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Serve
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: serve_Page_02.jpg
 uid: 65891c67-973f-fc42-1be4-08504e2719ba
 ---
 The serve grip, which is rotated roughly 90 degrees from the forehand grip.
-

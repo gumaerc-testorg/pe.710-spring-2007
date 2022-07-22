@@ -5,6 +5,7 @@ file: /courses/pe-710-tennis-spring-2007/b62e4f557b1d6591abc1bcbc426fa941_volley
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

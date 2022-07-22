@@ -13,6 +13,7 @@ image_metadata:
   image-alt: The player steps forward on the left foot, bringing the racket around
     to the side.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: forehand_Page_06.jpg
 uid: 9ae7b0ab-8ac8-ec94-1288-b9b5cbb1097a
 ---
 Step 2: A step is taken with the opposite (in this case left) foot. The racket is swung forward and makes contact with the ball in front of you, parallel to the net.
-

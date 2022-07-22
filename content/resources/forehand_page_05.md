@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The racket is now held in the right hand, pointing directly away from
     the net, still tilted up and aligned with the vertical.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: forehand_Page_05.jpg
 uid: 36f2e804-0acc-4f15-45d6-1b602998061d
 ---
 Step 1: The shoulders are turned and the racket is brought back, to a position perpendicular to the net. The motion is low and quick.
-

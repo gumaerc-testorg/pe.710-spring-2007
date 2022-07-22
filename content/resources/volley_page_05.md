@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Leaning on the right foot, the racket swings around to the back, staying
     perpendicular to the arm, stopping less than halfway.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
@@ -22,4 +23,3 @@ uid: 08cf2788-ac9b-449d-f2dc-2e2588fffda5
 Step 1, Forehand Volley: The shoulders turn
 and the racket is brought back, although not
 very far - a full swing is not part of a volley.
-

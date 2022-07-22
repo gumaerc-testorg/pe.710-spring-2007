@@ -13,6 +13,7 @@ image_metadata:
   image-alt: The racket swings back with the right hand, with weight on the right
     foot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: forehand_Page_08.jpg
 uid: 51525163-3b18-c779-34d1-c76261d7d9ba
 ---
 Step 1, Open Stance: In the open stance forehand, no crossover step is taken. Instead, the racket is brought back from the ready position, and swung forward from there.
-

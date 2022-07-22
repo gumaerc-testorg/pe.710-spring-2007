@@ -11,6 +11,7 @@ image_metadata:
   image-alt: At the end of the stroke, the racket has wrapped around the left side
     of the body at hip-level.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Serve
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: serve_Page_06.jpg
 uid: 390c0f4c-4b8e-faae-4b15-e35ff8dad28f
 ---
 Step 3b, Basic Serve: The follow-through. Note that the racket comes through and ends up on the players opposite side.
-

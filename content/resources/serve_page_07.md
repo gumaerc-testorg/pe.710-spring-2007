@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The racket is held in front, pointing towards the net, with the ball
     in the left hand near the racket neck.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Serve
 parent_type: CourseSection
@@ -22,4 +23,3 @@ uid: c38502aa-770a-a159-4142-bcdf27ef8d0a
 Step 1, Advanced Serve:
 The first position of the advanced serve.
 The racket is held in front, with the ball.
-

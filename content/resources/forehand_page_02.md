@@ -12,6 +12,7 @@ image_metadata:
     with the palm facing the ground, the strings facing up and down, and the head
     pointing towards the net.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: forehand_Page_02.jpg
 uid: 0afad349-ed70-126d-8ce9-8cc88125d21f
 ---
 The forehand grip - note that the racket is held flat, like a frying pan. The palm of your hand holds the wider, flat part of the grip.
-

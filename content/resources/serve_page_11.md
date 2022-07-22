@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The right hand brings the racket around the body, finishing the motion.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Serve
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: serve_Page_11.jpg
 uid: 90d912e2-c8e5-62e7-dd08-a2e44398555e
 ---
 Step 3b, Advanced Serve: The follow-through. Again, this is very similar to the basic serve.
-

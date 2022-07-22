@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Stepping across with the left foot, the racket swings forward, making
     contact with the ball before it passes.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
@@ -26,4 +27,3 @@ Note that the racket movement here is not
 so much a swing as a "punch" at the ball.
 The movement is minimal compared to a
 forehand swing from the baseline.
-

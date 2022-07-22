@@ -12,6 +12,7 @@ image_metadata:
     body to the left, so it ends up behind the body, pointing upwards and to the right,
     holding it with both hands.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: backhand_Page_10.jpg
 uid: 8a7a57e0-68d0-2324-4b3f-d5d00e0b78ec
 ---
 Step 1, Two-Handed Grip: Similar to the one-handed backhand, with the hands together on the grip.
-

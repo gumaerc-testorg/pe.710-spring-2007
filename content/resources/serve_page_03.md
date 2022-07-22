@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Facing right, a tennis ball is held in the left hand, while the right
     hand holds the racket up behind the head, pointing towards the ground.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Serve
 parent_type: CourseSection
@@ -26,4 +27,3 @@ Step 1, Basic Serve: The first position of the basic serve.
 
 Note that the racket is behind the back,
 and the ball is held in front ready for the toss.
-

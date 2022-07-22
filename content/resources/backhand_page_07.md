@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The left hand releases the racket to swing forward, meeting the ball
     with the strings parallel to the net.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: backhand_Page_07.jpg
 uid: 39b5c168-9871-6a09-048c-754f5e378f6c
 ---
 Step 2b: The racket comes forward to meet the ball in front of the player. Note that the racket face meets the ball squarely.
-

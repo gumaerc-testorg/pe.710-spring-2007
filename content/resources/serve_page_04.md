@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Leaning on the left foot, the ball is tossed up into the air, with the
     racket staying behind the head.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Serve
 parent_type: CourseSection
@@ -26,4 +27,3 @@ The toss is made above the player
 at a comfortable and reachable height,
 and roughly overhead. Consistency in the
 toss is critical.
-

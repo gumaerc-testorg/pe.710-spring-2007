@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A tennis player stands holding the racket in front of him with both hands,
     ready to return the volley.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: volley_Page_01.jpg
 uid: 3430c7cf-c039-d92e-7107-57c6ffba7020
 ---
 MIT OCW PE.710 Tennis Lecture Notes Chapter 4: Volley
-

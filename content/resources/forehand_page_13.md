@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: As the racket swings forward, the player keeps it oriented vertically.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: forehand_Page_13.jpg
 uid: b08029a6-ea6e-b070-ee1e-d434b2bb90d2
 ---
 Step 2b, from another angle. The racket now comes forward and meets the ball in front of the player.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The right arm ends pointing toward the net, with the racket pointing
     up and to the left, and the body facing left with all weight on the right foot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: volley_Page_11.jpg
 uid: 8df61739-11a9-4243-274c-db97e04876ad
 ---
 Step 3, Backhand Volley: The follow-through. Very similar to the forehand volley, and very minimal.
-

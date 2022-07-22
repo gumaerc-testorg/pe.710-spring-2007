@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The racket is held in the right hand, pointing left across the body,
     with the strings parallel to the net and the palm facing the ground.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Backhand
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: backhand_Page_02.jpg
 uid: 348b87b4-8e3b-1f01-6fa7-466313c127bb
 ---
 The backhand has two choices for grip. The first is one-handed, and shown above. It provides greater reach, but is sometimes harder to control.
-

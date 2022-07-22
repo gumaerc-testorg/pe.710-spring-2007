@@ -13,6 +13,7 @@ image_metadata:
   image-alt: The racket has swung through the rest of the arc, finishing over the
     left shoulder, with all weight on the left foot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: forehand_Page_07.jpg
 uid: 9890be9a-f764-895e-4095-b15893f7672c
 ---
 Step 3: The swing is completed with the follow-through. The racket ends over the opposite shoulder, and once again attention is focused on the opposite court in anticipation of the next shot.
-

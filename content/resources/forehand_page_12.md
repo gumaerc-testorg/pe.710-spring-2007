@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Now the left foot has stepped forward and across the body, with the racket
     still held behind.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: forehand_Page_12.jpg
 uid: 41c629d0-8cbe-86be-725a-d01fe590ccca
 ---
 Step 2a, from another angle. Note that the step has been taken, but the racket has not yet been swung forward.
-

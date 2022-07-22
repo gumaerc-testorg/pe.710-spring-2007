@@ -9,6 +9,7 @@ image_metadata:
   image-alt: From the right side of the player, the twist of the shoulders, hips,
     and stance to accommodate the backstroke is visible.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: forehand_Page_11.jpg
 uid: 0f10c13a-cf0f-5304-ecae-d6fa0336528b
 ---
 Step 1, from another angle.
-

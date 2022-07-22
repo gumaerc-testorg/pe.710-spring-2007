@@ -9,6 +9,7 @@ image_metadata:
   image-alt: The racket is held in front with the right hand, the left hand steadying,
     with a wide, alert stance.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Galleries
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: forehand_Page_10.jpg
 uid: 4ab4ec37-617f-1871-beda-88eb571e0efa
 ---
 The ready position, from another angle.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The left hand lets go as the racket swings forward, still tilted up,
     and the player steps across with the right foot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Volley
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: volley_Page_10.jpg
 uid: a0f54b41-ae36-88e8-9ad7-02ddab116ef9
 ---
 Step 2, Backhand Volley: The swing. Again, a minimal swing, more of a "punch".
-
