@@ -3,6 +3,7 @@ content_type: resource
 description: 'Step 2, Backhand Volley: The swing. Again, a minimal swing, more of
   a "punch".'
 file: /courses/pe-710-tennis-spring-2007/a0f54b41ae3688e89ad702ddab116ef9_volley_Page_10.jpg
+file_size: 51818
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 2, Backhand Volley: The swing. Again, a minimal swing, more of a

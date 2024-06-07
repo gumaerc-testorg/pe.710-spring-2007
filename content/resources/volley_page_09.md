@@ -3,6 +3,7 @@ content_type: resource
 description: 'Step 1, Backhand Volley: The shoulders turn again, the racket is brought
   back but not far, and both hands remain on the racket.'
 file: /courses/pe-710-tennis-spring-2007/d1d0914a1ed6d726ef1e81031e7ac894_volley_Page_09.jpg
+file_size: 51345
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 1, Backhand Volley: The shoulders turn again, the racket is brought

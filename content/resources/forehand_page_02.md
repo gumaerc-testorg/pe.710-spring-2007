@@ -3,6 +3,7 @@ content_type: resource
 description: The forehand grip - note that the racket is held flat, like a frying
   pan. The palm of your hand holds the wider, flat part of the grip.
 file: /courses/pe-710-tennis-spring-2007/0afad349ed70126d8ce98cc88125d21f_forehand_Page_02.jpg
+file_size: 47786
 file_type: image/jpeg
 image_metadata:
   caption: The forehand grip - note that the racket is held flat, like a frying pan.

@@ -4,6 +4,7 @@ description: 'Step 1, Open Stance: In the open stance forehand, no crossover ste
   is taken. Instead, the racket is brought back from the ready position, and swung
   forward from there.'
 file: /courses/pe-710-tennis-spring-2007/515251633b18c77934d1c76261d7d9ba_forehand_Page_08.jpg
+file_size: 54363
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 1, Open Stance: In the open stance forehand, no crossover step is

@@ -4,6 +4,7 @@ description: "This lecture will show two service motions: basic and advanced.\r\
   Step 1, Basic Serve: The first position of the basic serve.\r\n\r\nNote that the\
   \ racket is behind the back,\r\nand the ball is held in front ready for the toss."
 file: /courses/pe-710-tennis-spring-2007/4096cf12c2c3812fea7bb143ec1ecc73_serve_Page_03.jpg
+file_size: 54516
 file_type: image/jpeg
 image_metadata:
   caption: 'This lecture will show two service motions: basic and advanced. Step 1,

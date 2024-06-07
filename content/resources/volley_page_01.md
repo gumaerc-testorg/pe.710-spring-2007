@@ -2,6 +2,7 @@
 content_type: resource
 description: 'MIT OCW PE.710 Tennis Lecture Notes Chapter 4: Volley'
 file: /courses/pe-710-tennis-spring-2007/3430c7cfc039d92e710757c6ffba7020_volley_Page_01.jpg
+file_size: 49329
 file_type: image/jpeg
 image_metadata:
   caption: 'MIT OCW PE.710 Tennis Lecture Notes Chapter 4: Volley'
