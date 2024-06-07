@@ -3,6 +3,7 @@ content_type: resource
 description: 'Step 3, Forehand Volley: The follow-through. Note again that the motion
   is much shorter and more minimal than a full swing.'
 file: /courses/pe-710-tennis-spring-2007/e959668360e1b7370cde400ec1fc1015_volley_Page_07.jpg
+file_size: 55110
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 3, Forehand Volley: The follow-through. Note again that the motion

@@ -4,6 +4,7 @@ description: "Step 2, Basic Serve: The toss.\r\nThe toss is made above the playe
   \nat a comfortable and reachable height,\r\nand roughly overhead. Consistency in\
   \ the\r\ntoss is critical."
 file: /courses/pe-710-tennis-spring-2007/e33254c9da9af82c3c381aa1d5d4d8eb_serve_Page_04.jpg
+file_size: 53410
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 2, Basic Serve: The toss. The toss is made above the player at a
