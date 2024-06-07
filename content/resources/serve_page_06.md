@@ -3,6 +3,7 @@ content_type: resource
 description: 'Step 3b, Basic Serve: The follow-through. Note that the racket comes
   through and ends up on the players opposite side.'
 file: /courses/pe-710-tennis-spring-2007/390c0f4c4b8efaae4b15e35ff8dad28f_serve_Page_06.jpg
+file_size: 51320
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 3b, Basic Serve: The follow-through. Note that the racket comes through

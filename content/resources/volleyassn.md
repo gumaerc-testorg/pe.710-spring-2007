@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/pe-710-tennis-spring-2007/b62e4f557b1d6591abc1bcbc426fa941_volleyassn.pdf
+file_size: 169644
 file_type: application/pdf
 learning_resource_types:
 - Assignments

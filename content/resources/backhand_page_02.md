@@ -3,6 +3,7 @@ content_type: resource
 description: The backhand has two choices for grip. The first is one-handed, and shown
   above. It provides greater reach, but is sometimes harder to control.
 file: /courses/pe-710-tennis-spring-2007/348b87b48e3b1f016fa7466313c127bb_backhand_Page_02.jpg
+file_size: 49287
 file_type: image/jpeg
 image_metadata:
   caption: The backhand has two choices for grip. The first is one-handed, and shown

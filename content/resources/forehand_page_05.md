@@ -3,6 +3,7 @@ content_type: resource
 description: 'Step 1: The shoulders are turned and the racket is brought back, to
   a position perpendicular to the net. The motion is low and quick.'
 file: /courses/pe-710-tennis-spring-2007/36f2e8040acc4f1545d61b602998061d_forehand_Page_05.jpg
+file_size: 53237
 file_type: image/jpeg
 image_metadata:
   caption: 'Step 1: The shoulders are turned and the racket is brought back, to a
