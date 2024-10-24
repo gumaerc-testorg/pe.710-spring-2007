@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT OCW PE.710 Tennis Lecture Notes Chapter 3: Serve'
-file: /courses/pe-710-tennis-spring-2007/e51e5f5f9db8760c6a0aea91365cca5a_serve_Page_01.jpg
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/e51e5f5f9db8760c6a0aea91365cca5a_serve_Page_01.jpg
 file_size: 49370
 file_type: image/jpeg
 image_metadata:

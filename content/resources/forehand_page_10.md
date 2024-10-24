@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The ready position, from another angle.
-file: /courses/pe-710-tennis-spring-2007/4ab4ec37617f1871beda88eb571e0efa_forehand_Page_10.jpg
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/4ab4ec37617f1871beda88eb571e0efa_forehand_Page_10.jpg
 file_size: 46852
 file_type: image/jpeg
 image_metadata:

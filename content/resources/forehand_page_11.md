@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Step 1, from another angle.
-file: /courses/pe-710-tennis-spring-2007/0f10c13acf0f5304ecaed6fa0336528b_forehand_Page_11.jpg
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/0f10c13acf0f5304ecaed6fa0336528b_forehand_Page_11.jpg
 file_size: 47866
 file_type: image/jpeg
 image_metadata:
