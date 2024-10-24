@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 2b, Two-Handed Grip: Making contact with the ball. Generally, the
   racket head will be closer to the body on a two-handed backhand.'
-file: /courses/pe-710-tennis-spring-2007/1e168d0fdaa66ee6fdbeaa720388e62d_backhand_Page_12.jpg
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/1e168d0fdaa66ee6fdbeaa720388e62d_backhand_Page_12.jpg
 file_size: 50680
 file_type: image/jpeg
 image_metadata:

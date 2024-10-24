@@ -3,7 +3,7 @@ content_type: resource
 description: "Step 2, Forehand Volley: The swing.\r\nNote that the racket movement\
   \ here is not\r\nso much a swing as a \"punch\" at the ball.\r\nThe movement is\
   \ minimal compared to a\r\nforehand swing from the baseline."
-file: /courses/pe-710-tennis-spring-2007/02bb64527d88b2e4ccc8c506a39a1970_volley_Page_06.jpg
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/02bb64527d88b2e4ccc8c506a39a1970_volley_Page_06.jpg
 file_size: 54155
 file_type: image/jpeg
 image_metadata:

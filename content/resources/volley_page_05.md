@@ -2,7 +2,7 @@
 content_type: resource
 description: "Step 1, Forehand Volley: The shoulders turn\r\nand the racket is brought\
   \ back, although not\r\nvery far - a full swing is not part of a volley."
-file: /courses/pe-710-tennis-spring-2007/08cf2788ac9b449df2dc2e2588fffda5_volley_Page_05.jpg
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/08cf2788ac9b449df2dc2e2588fffda5_volley_Page_05.jpg
 file_size: 52173
 file_type: image/jpeg
 image_metadata:
