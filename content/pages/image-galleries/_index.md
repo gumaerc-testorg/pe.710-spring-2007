@@ -2,6 +2,7 @@
 content_type: page
 description: ''
 draft: false
+show_section_pages: true
 title: Image Galleries
 uid: de168d39-f840-f977-8435-fb3ef4fd9530
 ---
