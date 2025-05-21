@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 3b, Advanced Serve: The follow-through. Again, this is very similar
   to the basic serve.'
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/90d912e2c8e562e7dd08a2e44398555e_serve_Page_11.jpg
+file: /courses/pe-710-tennis-spring-2007/90d912e2c8e562e7dd08a2e44398555e_serve_Page_11.jpg
 file_size: 52705
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 2b: The racket comes forward to meet the ball in front of the player.
   Note that the racket face meets the ball squarely.'
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/39b5c16898716a09048c754f5e378f6c_backhand_Page_07.jpg
+file: /courses/pe-710-tennis-spring-2007/39b5c16898716a09048c754f5e378f6c_backhand_Page_07.jpg
 file_size: 50673
 file_type: image/jpeg
 image_metadata:

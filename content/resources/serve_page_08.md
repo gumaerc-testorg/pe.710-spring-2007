@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 2a, Advanced Serve: The toss begins. In the first movement of the
   toss, the racket comes back while the ball toss begins.'
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/1159ab2bd0fda8adf88805de5ad25161_serve_Page_08.jpg
+file: /courses/pe-710-tennis-spring-2007/1159ab2bd0fda8adf88805de5ad25161_serve_Page_08.jpg
 file_size: 52091
 file_type: image/jpeg
 image_metadata:

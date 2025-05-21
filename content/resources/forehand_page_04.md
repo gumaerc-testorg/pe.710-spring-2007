@@ -2,7 +2,7 @@
 content_type: resource
 description: The ready position. Note that both hands are on the racket, the knees
   are slightly bent, and attention is focused on the opposite court.
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/49afc8969eb1b57f6242ca8732d5abef_forehand_Page_04.jpg
+file: /courses/pe-710-tennis-spring-2007/49afc8969eb1b57f6242ca8732d5abef_forehand_Page_04.jpg
 file_size: 52097
 file_type: image/jpeg
 image_metadata:
