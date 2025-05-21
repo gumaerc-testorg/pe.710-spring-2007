@@ -3,7 +3,7 @@ content_type: resource
 description: 'Step 3: The swing is completed with the follow-through. The racket ends
   over the opposite shoulder, and once again attention is focused on the opposite
   court in anticipation of the next shot.'
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/9890be9af764895e4095b15893f7672c_forehand_Page_07.jpg
+file: /courses/pe-710-tennis-spring-2007/9890be9af764895e4095b15893f7672c_forehand_Page_07.jpg
 file_size: 53176
 file_type: image/jpeg
 image_metadata:

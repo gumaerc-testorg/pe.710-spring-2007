@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The ready position with the two handed grip.
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/28d71f38238e633ea02194fbb771b551_backhand_Page_09.jpg
+file: /courses/pe-710-tennis-spring-2007/28d71f38238e633ea02194fbb771b551_backhand_Page_09.jpg
 file_size: 48280
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: The volley grip, very similar to the service grip. Note that the volley
   grip is the same for forehand and backhand volleys.
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/57c02b126ba6cd674b50f3c85b73e512_volley_Page_02.jpg
+file: /courses/pe-710-tennis-spring-2007/57c02b126ba6cd674b50f3c85b73e512_volley_Page_02.jpg
 file_size: 43452
 file_type: image/jpeg
 image_metadata:

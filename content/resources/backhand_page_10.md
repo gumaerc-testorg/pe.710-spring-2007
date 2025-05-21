@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Step 1, Two-Handed Grip: Similar to the one-handed backhand, with the
   hands together on the grip.'
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/8a7a57e068d023244b3fd5d00e0b78ec_backhand_Page_10.jpg
+file: /courses/pe-710-tennis-spring-2007/8a7a57e068d023244b3fd5d00e0b78ec_backhand_Page_10.jpg
 file_size: 50048
 file_type: image/jpeg
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'Step 3: The follow-through, with the racket ending up high and out in
   front. A smooth follow through is critical to effective groundstrokes - bunting
   the ball will lead to soft, high balls that are easy for opponents.'
-file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/b23bb09b231afa5e8ec40d212061da19_backhand_Page_08.jpg
+file: /courses/pe-710-tennis-spring-2007/b23bb09b231afa5e8ec40d212061da19_backhand_Page_08.jpg
 file_size: 52906
 file_type: image/jpeg
 image_metadata:
