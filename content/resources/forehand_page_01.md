@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT OCW PE.710 Tennis Lecture Notes Chapter 1: Forehand'
-file: /courses/pe-710-tennis-spring-2007/df746e4d009c30e52b4f62d8b4b3a03b_forehand_Page_01.jpg
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/df746e4d009c30e52b4f62d8b4b3a03b_forehand_Page_01.jpg
 file_size: 49633
 file_type: image/jpeg
 image_metadata:

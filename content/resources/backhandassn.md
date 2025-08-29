@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/pe-710-tennis-spring-2007/0cef32b6a2560dad2e3d1b1db40354e9_backhandassn.pdf
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/0cef32b6a2560dad2e3d1b1db40354e9_backhandassn.pdf
 file_size: 196789
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT OCW PE.710 Tennis Lecture Notes Chapter 2: Backhand'
-file: /courses/pe-710-tennis-spring-2007/ef761150be99142b4f93fd584a4b1994_backhand_Page_01.jpg
+file: /ol-ocw-studio-app/courses/pe-710-tennis-spring-2007/ef761150be99142b4f93fd584a4b1994_backhand_Page_01.jpg
 file_size: 49708
 file_type: image/jpeg
 image_metadata:
