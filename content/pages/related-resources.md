@@ -8,4 +8,4 @@ title: Related Resources
 uid: ee4c6aba-eab0-22e4-41a5-35d7eeecf4fa
 ---
 
-[United States Tennis Association](http://www.usta.com/) - Get tips, rules, information on tournaments, and professional tennis news.
+{{% resource_link "b19cca15-d3f2-45b8-ac7e-aefbc5ebfc2c" "United States Tennis Association" %}} - Get tips, rules, information on tournaments, and professional tennis news.
